@@ -1,6 +1,9 @@
 # UTA-Event-Mapper
 A web based Map tool for UTA students, faculty and visitors to find and host events around campus.
 
+Project for Object Oriented Software Engineering
+CSE 3311 - 001
+
 Layout:
 
 Top Bar with buttons (or drop down menu) - Friend list, Create event, Event list, Login/Logout, Sign up, notifications
